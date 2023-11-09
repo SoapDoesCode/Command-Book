@@ -1,5 +1,5 @@
 # Command-Book
-A custom Minecraft Java command book I am making.
+A custom Minecraft Java command book I am working on.
 
 To obtain this command book you must:
 1. Get a command block by running this command in your minecraft world ```/give @p minecraft:command_block```
